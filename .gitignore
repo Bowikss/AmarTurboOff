@@ -1,0 +1,4 @@
+# ECU dumps contain immobilizer/VIN data - never commit them
+*.bin
+*.zip
+__pycache__/
